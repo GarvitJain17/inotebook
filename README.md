@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ###To start backend
-cd backend from inotebook folder
+cd backend from inotebook folder\
 nodemon app.js
