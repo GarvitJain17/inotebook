@@ -1,10 +1,10 @@
-###  To start website\
+###  To start website
 npm run start
 
 
 
 
 
-###   To start backend\
+###   To start backend
 cd backend from inotebook folder\
 nodemon app.js
